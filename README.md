@@ -19,7 +19,7 @@ This material is provided solely for educational purposes on authorized lab envi
 
 ## 🧩 Step-by-Step PoC
 
-1. Access the Lab, try to sign in with username `carlos` and any random password, intercept the request with Burp Suite.
+1. Access the [Lab](https://portswigger.net/web-security/nosql-injection/lab-nosql-injection-extract-unknown-fields), try to sign in with username `carlos` and any random password, intercept the request with Burp Suite.
 
 ![1](https://github.com/user-attachments/assets/5db5158e-0f8e-49d7-bff9-7341434e48df) <br/>
 
