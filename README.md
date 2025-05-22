@@ -2,6 +2,9 @@
 
 ## Exploited a NoSQL injection flaw to enumerate hidden fields and extract a valid password reset token, leading to a seamless account takeover.
 
+![NoSQL New Cover](https://github.com/user-attachments/assets/f22718a8-22b0-48a2-8911-3182a23e5f9d) <br/>
+
+
 ## 📘 Introduction
 
 This lab demonstrates a NoSQL injection vulnerability in a MongoDB-backed login system. By abusing MongoDB operators like `$ne` and `$where`, we can bypass authentication checks, enumerate hidden user fields, and finally extract a password reset token to hijack an account. This step-by-step PoC reveals how NoSQL injections can lead to full account compromise when input validation and query construction are insufficiently secured.
